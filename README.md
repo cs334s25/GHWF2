@@ -3,7 +3,7 @@
 
 Practice space for using the Github Workflow.
 
-Participants:
+Participants: Samuel Cadiz and Kaleb Missmer
 Ben Coleman
 
 
